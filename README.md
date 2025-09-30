@@ -1,4 +1,4 @@
-# O365 Enhancement Scripts
+# M365 Enhancement Scripts
 
 优化网页版SharePoint Lists使用体验
 
